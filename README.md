@@ -33,7 +33,7 @@ The system uses **Google Gemini 1.5 Flash** as the LLM and **LangChain** for cha
 | 📄 PDF Parsing     | PyMuPDF + OCR (Tesseract)              |
 | 📊 Vector Store    | FAISS                                  |
 | 🌐 Frontend        | Streamlit                              |
-| 🧪 Development     | Python 3.x, Conda                      |
+| 🧪 Development     | Python 3.10, Conda                      |
 | 🔐 API Handling    | .env file to manage Gemini API keys    |
 
 ---
